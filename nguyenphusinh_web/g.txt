@@ -1,0 +1,36 @@
+<div class="content dark style2">
+					<div class="container">
+						<div class="row">
+							<div class="4u">
+								<section>
+									<h3>M?t s? website d?u tay</h3>
+									<p>Click vào ?nh d? truy c?p trang web <i class="fa fa-arrow-circle-right"></i></p>
+									<p>Tôi b?t d?u lên m?ng d? tìm hi?u v? thi?t k? và l?p trình web, và cung dã t? mày mò t? t?o cho mình nh?ng website d?u tiên s? d?ng tên mi?n và hosting mi?n phí. Lúc d?y c?m th?y vui su?ng vô cùng.</p>
+									<p>Sau dó là nh?ng website khác ra d?i v?i s? d?u tu nhi?u hon v? domain & hosting. Website tâm d?c nh?t c?a tôi ? th?i di?m hi?n t?i là <a href="http://kyniem.org" title="Di?n dàn K? Ni?m" target="_blank">Di?n dàn K? Ni?m</a> - Ðúng nhu cái tên, ban d?u tôi dang ký tên mi?n kyniem.org ch? d? làm website k? ni?m cho m?t chuy?n di nhung sau dó l?i phát tri?n nó theo m?t hu?ng hoàn toàn khác.</p>
+                                    <p>M?t trong nh?ng ?ng d?ng nh?n du?c nhi?u s? ?ng h? nh?t t? ngu?i dùng là trang <a href="http://kyniem.org/coca" title="In kh?c tên lên lon coca" target="_blank">In tên Coca</a> v?i lu?ng truy c?p và s? d?ng khá l?n.
+                                    </p>
+                                    <p>B?t d?u ki?m du?c ti?n t? nh?ng website c?a mình, tuy không nhi?u nhung cung d? d? ti?p t?c duy trì dam mê.
+                                    </p>
+									<footer>
+										<a href="#ky-niem" class="button scrolly">V? di?n dàn K? Ni?m <i class="fa fa-level-down"></i></a>
+									</footer>
+								</section>
+							</div>
+							<div class="8u">
+								<div class="row no-collapse">
+									<div class="6u"><a href="http://kyniem.org" title="Di?n dàn K? Ni?m" target="_blank" class="image full"><img src="images/pic01.jpg" alt="Di?n dàn K? Ni?m" /></a></div>
+									<div class="6u"><a href="http://kyniem.org/upanh/" title="Up ?nh K? Ni?m" target="_blank" class="image full"><img src="images/pic02.jpg" alt="Úp ?nh K? Ni?m" /></a></div>
+								</div>
+								<div class="row no-collapse">
+									<div class="6u"><a href="http://kyniem.org/coca/" title="In tên coca, pepsi" target="_blank" class="image full"><img src="images/pic03.jpg" alt="In tên coca" /></a></div>
+									<div class="6u"><a href="http://kyniem.org/bai-viet/code-blog-ca-nhan-cuc-dep-chuan-seo.603.html" title="Code blog cá nhân" target="_blank" class="image full"><img src="images/pic04.jpg" alt="Code blog cá nhân" /></a></div>
+								</div>
+								<div class="row no-collapse">
+									<div class="6u"><a href="http://sinhvienqnu.com" title="Di?n dàn sinh viên Ð?i H?c Quy Nhon" target="_blank" class="image full"><img src="images/pic05.jpg" alt="Di?n dàn sinh viên QNU" /></a></div>
+									<div class="6u"><a href="http://kyniem.org/bai-viet/share-code-web-gioi-thieu-ca-nhan-dep-bang-html.267.html" title="Code cá nhân HTML" target="_blank" class="image full"><img src="images/pic06.jpg" alt="Code cá nhân HTML" /></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
